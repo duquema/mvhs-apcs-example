@@ -21,6 +21,7 @@
 * rm --cached -> remove file from stage
 * git commit -m "Present tense description of what changed"
 * git log - > show past commits enter to move down page
+* checkout -- <file_name> -> discard recent changes
 
 ## Problem
 * if commit without -m -> use Esc :wq to quit Vim
