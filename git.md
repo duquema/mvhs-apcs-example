@@ -22,3 +22,6 @@
 * git commit -m "Present tense description of what changed"
 * git log - > show past commits enter to move down page
 *
+
+## Problem
+* if commit without -m -> use Esc :wq to quit Vim
