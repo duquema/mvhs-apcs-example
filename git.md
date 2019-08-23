@@ -8,6 +8,10 @@
 # Project Setup
 
 `git init`
+`touch .gitignore
+Add `*.class` to the .gitignore file and save it.
+`git add .`
+`git commit -m "Initial commit"`
 
 ## 3 Step Repeating Commit Process
 1. Make changes to code
@@ -15,6 +19,7 @@
 		* git add
 3. Commit changes with a message
 		* git commit -m "Message"
+
 ## Command
 * status - > tell me what files have been staged or committed
 * add -> add a file to the stage
